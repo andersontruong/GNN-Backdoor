@@ -7,3 +7,6 @@
 
 ## Data
 Save all datasets in `data/`. This is ignored for Git.
+
+## Transfer Learning
+- Use `notebooks/base_model.pt` as the base model
